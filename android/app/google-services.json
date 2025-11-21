@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012846137817",
+    "firebase_url": "https://augustinsam-41e6d.firebaseio.com",
+    "project_id": "augustinsam-41e6d",
+    "storage_bucket": "augustinsam-41e6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012846137817:android:1ca550d4bf25358dca49c8",
+        "android_client_info": {
+          "package_name": "com.example.rare_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012846137817-0q1l2da7oqlol45mph0onr5d7b491kbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjnOrfYIE6vcAEu8KG1aH9FQ7S0hhs1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012846137817-0q1l2da7oqlol45mph0onr5d7b491kbg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012846137817-modojb77uqbpjt9lbfudt1n51c0foa9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.airbus.inflightyuio.RightToLeft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
