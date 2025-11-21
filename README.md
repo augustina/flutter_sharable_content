@@ -1,6 +1,16 @@
-# rare_crew
+# Create a TODO flutter project
 
-A new Flutter project.
+• where task can be shared and received with another user
+• when task is shared with other user, and they are making some changes that should reflect to the owner of
+the task in real time
+• task can be shared via email and other media
+• List can be infinite
+• use component for ui widget (List view, input field and others)
+
+Note:
+1. Project should be in mvvm structure
+2. Use Riverpod for state management
+3. App should be responsive (work on all different screen sizes)
 
 ## Getting Started
 
